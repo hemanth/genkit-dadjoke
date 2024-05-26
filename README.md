@@ -1,7 +1,5 @@
 ## Genkit DadJoke Generator
-> Sample code of using firebase genkit
-
-This project utilizes `genkit` flows and `genkitx-ollama` to generate dad jokes based on user-provided topics.
+> `genkit` flows and `genkitx-ollama` to generate dad jokes based on user-provided topics.
 
 
 ## Overview 
