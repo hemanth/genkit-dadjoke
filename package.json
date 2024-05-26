@@ -1,0 +1,27 @@
+{
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "name": "genkit-dadjoke",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@genkit-ai/ai": "^0.5.1",
+    "@genkit-ai/core": "^0.5.1",
+    "@genkit-ai/dotprompt": "^0.5.1",
+    "@genkit-ai/flow": "^0.5.1",
+    "express": "^4.19.2",
+    "genkitx-ollama": "^0.5.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
